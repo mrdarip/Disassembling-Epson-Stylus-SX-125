@@ -31,3 +31,35 @@ The printer was full of glass
 but finally got to get it out of iths core
 
 !["printer parts"](./resources/IMG_20240725_232346.jpg "printer parts")
+
+## Session 2
+
+today I actually got some parts
+
+started by putting the mosquito thing
+
+!["mosquitozz"](./resources/IMG_20240726_214847.jpg)
+
+Then aimed for this stepper motor
+
+!["motor"](./resources/IMG_20240726_214947.jpg)
+
+And found some glass on my way, later I cleaned it, for my future self i'll use gloves
+
+!["glass in finger"](./resources/IMG_20240726_215158.jpg)
+
+got the lid oppened
+
+!["lid open"](./resources/IMG_20240726_215732.jpg)
+
+and got some parts finally, buttons, the light thing and the motor, the light could be used for a 3d printer
+
+!["parts"](./resources/IMG_20240726_220513.jpg)
+
+then I got a power supply and a motor
+
+!["some parts"](./resources/IMG_20240726_222331.jpg)
+
+and another motor its pcb and an encoder thing
+
+!["all parts"](./resources/IMG_20240726_231044.jpg)
