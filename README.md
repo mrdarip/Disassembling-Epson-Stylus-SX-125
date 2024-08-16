@@ -63,3 +63,29 @@ then I got a power supply and a motor
 and another motor its pcb and an encoder thing
 
 !["all parts"](./resources/IMG_20240726_231044.jpg)
+
+Theres no more pieces to get from this printer, so I'll throw the chassis to the trash
+
+# Disassembling Epson XP-335
+
+Found two more printers in the trash but they were in a better state than the previous one, the first one was an Epson XP-335, it was missing the cables and the ink catridges were leaking, so it had to be cleaned and tested to see if it worked
+
+!["printer"](./resources/IMG_20240815_184319.jpg)
+
+cleaned it, doesn't look like new but it's better
+
+!["printer"](./resources/IMG_20240815_184938.jpg)
+
+the paper feeder was full of leaves
+
+!["printer"](./resources/IMG_20240815_185848.jpg)
+
+Searched a cable for it, found one
+
+!["printer"](./resources/IMG_20240815_191333.jpg)
+
+Replace the ink catridges, they didn't fit
+
+!["printer"](./resources/IMG_20240815_192152.jpg)
+
+As a conclussion the printer was dumped because it was leaking ink and the ink catridges were not original, so it was impossible to know if it worked, I wont be dissasembling this printer until I get some new ink catridges to test it
